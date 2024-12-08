@@ -6,5 +6,7 @@ manifest:
   projects:
     - name: pmw3389_zephyr_driver
       remote: teamspatzenhirn
-      revision: 837e0ab2182d8748b46bf188f03c7dde4d4e0328
+      revision: 837e0ab
       path: modules/pmw3389
+self:
+  path: config
