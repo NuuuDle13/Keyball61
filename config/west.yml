@@ -8,3 +8,5 @@ manifest:
       remote: teamspatzenhirn
       revision: <current commit hash>
       path: modules/pmw3389
+  self:
+    path: config
