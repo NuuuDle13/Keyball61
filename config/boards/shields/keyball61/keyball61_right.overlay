@@ -24,9 +24,9 @@
         <&gpio0 8  GPIO_ACTIVE_HIGH>; /* B4 */
 
     col-gpios = 
-        <&gpio1 1 GPIO_ACTIVE_HIGH>, /* F4 */
-        <&gpio1 2 GPIO_ACTIVE_HIGH>, /* F5 */
-        <&gpio1 7 GPIO_ACTIVE_HIGH>, /* F6 */
+        <&gpio1 20 GPIO_ACTIVE_HIGH>, /* F4 */
+        <&gpio1 19 GPIO_ACTIVE_HIGH>, /* F5 */
+        <&gpio1 18 GPIO_ACTIVE_HIGH>, /* F6 */
         <&gpio1 6 GPIO_ACTIVE_HIGH>; /* F7 */
 
 };
